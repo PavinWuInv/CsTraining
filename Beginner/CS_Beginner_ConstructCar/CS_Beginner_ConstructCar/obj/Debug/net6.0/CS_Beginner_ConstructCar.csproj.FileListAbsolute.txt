@@ -1,0 +1,12 @@
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.csproj.AssemblyReference.cache
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.AssemblyInfoInputs.cache
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.AssemblyInfo.cs
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.csproj.CoreCompileInputs.cache
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\bin\Debug\net6.0\CS_Beginner_ConstructCar.deps.json
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\bin\Debug\net6.0\CS_Beginner_ConstructCar.dll
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\bin\Debug\net6.0\CS_Beginner_ConstructCar.pdb
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.dll
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\refint\CS_Beginner_ConstructCar.dll
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\CS_Beginner_ConstructCar.pdb
+C:\INVBUILD\ScratchPad\Training\c#_training\codewars\Beginner\CS_Beginner_ConstructCar\CS_Beginner_ConstructCar\obj\Debug\net6.0\ref\CS_Beginner_ConstructCar.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.33502.348
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Beginner_ConstructCar", "CS_Beginner_ConstructCar\CS_Beginner_ConstructCar.csproj", "{745EA601-ADFF-44F7-95D2-4F618B397DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Beginner_ConstructCarTests", "CS_Beginner_ConstructCarTests\CS_Beginner_ConstructCarTests.csproj", "{BE794621-9397-4138-BE15-1E48B45157FE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{745EA601-ADFF-44F7-95D2-4F618B397DBF} = {745EA601-ADFF-44F7-95D2-4F618B397DBF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745EA601-ADFF-44F7-95D2-4F618B397DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745EA601-ADFF-44F7-95D2-4F618B397DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745EA601-ADFF-44F7-95D2-4F618B397DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745EA601-ADFF-44F7-95D2-4F618B397DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE794621-9397-4138-BE15-1E48B45157FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE794621-9397-4138-BE15-1E48B45157FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE794621-9397-4138-BE15-1E48B45157FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE794621-9397-4138-BE15-1E48B45157FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F92DC68-1886-40CA-97E4-7800ED88E069}
+	EndGlobalSection
+EndGlobal
